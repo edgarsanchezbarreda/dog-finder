@@ -1,0 +1,22 @@
+.NewColor-form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+    padding: 1rem;
+}
+
+.NewColor-label {
+    display: inline-flex;
+    margin-bottom: 0.5rem;
+}
+
+.NewColor-colorName-input {
+    margin-bottom: 1rem;
+}
+
+.NewColor-color-input {
+    margin-bottom: 1rem;
+    /* margin: 1rem auto; */
+    width: 5rem;
+}

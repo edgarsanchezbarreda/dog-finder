@@ -1,0 +1,10 @@
+.Color {
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    padding: 3rem;
+}
+
+.Color a {
+    color: white;
+}
